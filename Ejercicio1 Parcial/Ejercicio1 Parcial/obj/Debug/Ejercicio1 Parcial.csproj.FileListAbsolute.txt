@@ -1,0 +1,14 @@
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.exe.config
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.exe
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.pdb
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.exe
+C:\Users\Gissela\Desktop\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.pdb
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.exe.config
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.exe
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\bin\Debug\Ejercicio1 Parcial.pdb
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.exe
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio1 Parcial\Ejercicio1 Parcial\obj\Debug\Ejercicio1 Parcial.pdb

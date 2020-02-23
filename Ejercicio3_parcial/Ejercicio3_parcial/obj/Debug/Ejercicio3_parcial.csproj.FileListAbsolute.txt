@@ -1,0 +1,10 @@
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\bin\Debug\Ejercicio3_parcial.exe.config
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\bin\Debug\Ejercicio3_parcial.exe
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\bin\Debug\Ejercicio3_parcial.pdb
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.Form1.resources
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.Properties.Resources.resources
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.exe
+C:\Users\Gissela\Desktop\parcial ped\Ejercicio3_parcial\Ejercicio3_parcial\obj\Debug\Ejercicio3_parcial.pdb

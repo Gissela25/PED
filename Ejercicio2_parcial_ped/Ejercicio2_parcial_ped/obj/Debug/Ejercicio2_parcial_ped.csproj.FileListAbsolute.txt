@@ -1,0 +1,10 @@
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\bin\Debug\Ejercicio2_parcial_ped.exe.config
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\bin\Debug\Ejercicio2_parcial_ped.exe
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\bin\Debug\Ejercicio2_parcial_ped.pdb
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.Form1.resources
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.Properties.Resources.resources
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.exe
+C:\Users\Gissela\Desktop\Ejercicio2_parcial_ped\Ejercicio2_parcial_ped\obj\Debug\Ejercicio2_parcial_ped.pdb
