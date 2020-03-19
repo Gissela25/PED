@@ -1,0 +1,79 @@
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe.config
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.buscar.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Factura.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Form1.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Menu.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Productos.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Properties.Resources.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Splash.resources
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\pro\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csprojAssemblyReference.cache
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe.config
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csprojAssemblyReference.cache
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.buscar.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Factura.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Form1.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Menu.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Productos.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Properties.Resources.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Splash.resources
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.GenerateResource.cache
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.CoreCompileInputs.cache
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.exe
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\vsura\Desktop\proyecto\Defensa 3\lala\TODO\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.contenedorInicio.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe.config
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.buscar.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.contenedorInicio.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Factura.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Form1.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Menu.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Productos.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Properties.Resources.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Splash.resources
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\babosada\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe.config
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.buscar.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.contenedorInicio.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Factura.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Form1.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Menu.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Productos.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Properties.Resources.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Splash.resources
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe.config
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\bin\Release\Sistema de Facturacion Amigos.pdb
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.buscar.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.contenedorInicio.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Factura.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Form1.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Menu.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Productos.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Properties.Resources.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema_de_Facturacion_Amigos.Splash.resources
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.exe
+C:\Users\Gissela\Desktop\Proyecto\ultimo para instalar\ultimo para instalar\ULTIMO SFA\SFA\Sistema de Facturacion Amigos\obj\Release\Sistema de Facturacion Amigos.pdb
